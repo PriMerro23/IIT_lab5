@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/my-webapp-lab:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab5-aws-max:latest
